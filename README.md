@@ -60,7 +60,7 @@ mysql -u root -p < sql/datos.sql
 mysql -u root -p nexshop < consultas/consultas.sql
 ```
 
-O bien abre cada archivo en MySQL Workbench, selecciona todo el contenido y pulsa el botón de ejecutar (⚡).
+O bien abre cada archivo en MySQL Workbench, selecciona todo el contenido y pulsa el botón de ejecutar.
 
 ---
 
